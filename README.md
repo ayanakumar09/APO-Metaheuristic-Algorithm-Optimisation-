@@ -1,4 +1,4 @@
-# APO-Metaheuristic-Algorithm-Optimisation-
+# APO-Metaheuristic-Algorithm-Optimisation
 
 ## Overview
 An adaptive metaheuristic algorithm inspired by Arctic puffin behavior, optimized for high performance on the CEC 2017 benchmark suite. Developed in early 2024, APO combines strategies from SMA, GTO, and PSO to effectively balance exploration and exploitation.
